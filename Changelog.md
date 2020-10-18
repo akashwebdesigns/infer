@@ -1,4 +1,5 @@
 ## Version 0.17.0
+################
 
 - There's a new  `--inefficient-keyset-iterator`  checker for finding inefficient uses of Java's keyset iterators that retrieve both key and value (on by default).
 - Complete the set of Android thread annotations and Java nullability annotations. Updated artifacts are available on [Maven Central](https://search.maven.org/artifact/com.facebook.infer.annotation/infer-annotation/0.17.0/jar).
